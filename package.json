@@ -1,0 +1,32 @@
+{
+    "name": "nodary-encoder",
+    "version": "0.1.0",
+    "description": "EventEmitter based micro-library for use with onoff to read output from rotary encoders on Raspberry PI and others",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": ""
+    },
+    "keywords": [
+      "onoff",
+      "rotary",
+      "encoder",
+      "gpio",
+      "raspberry",
+      "pi",
+      "eventemitter"
+    ],
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+      "url": ""
+    },
+    "homepage": "",
+    "dependencies": {
+      "onoff": "^6.0.1"
+    }
+  }
+  
