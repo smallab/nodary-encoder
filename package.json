@@ -8,7 +8,7 @@
     },
     "repository": {
       "type": "git",
-      "url": ""
+      "url": "https://github.com/smallab/nodary-encoder.git"
     },
     "keywords": [
       "onoff",
@@ -17,16 +17,12 @@
       "gpio",
       "raspberry",
       "pi",
-      "raspi",
       "node",
       "js"
     ],
-    "author": "",
+    "author": "Matthieu Savary × User.Digital × User Studio",
     "license": "MIT",
-    "bugs": {
-      "url": ""
-    },
-    "homepage": "",
+    "homepage": "https://github.com/smallab/nodary-encoder/",
     "dependencies": {
       "onoff": "^6.0.1"
     }
