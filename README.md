@@ -3,6 +3,11 @@
 Based off https://github.com/nstansby/rpi-rotary-encoder-python & https://github.com/pichfl/onoff-rotary:
 event-based *NodeJS* lib that relies on https://github.com/fivdi/onoff to get *rotary encoder* (such as https://thepihut.com/products/rotary-encoder-extras) data from *GPIO* pins on *Raspberry Pi*.
 
+## Installation
+```shell
+npm i nodary-encoder --save
+```
+
 ## Usage
 ```js
 const nodaryEncoder = require('nodary-encoder');

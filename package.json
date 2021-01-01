@@ -1,7 +1,7 @@
 {
   "name": "nodary-encoder",
-  "version": "0.1.1",
-  "description": "Event and onoff-based NodeJS lib that serves rotary encoder data from GPIO pins on Raspberry Pi",
+  "version": "0.1.2",
+  "description": "Simplistic event-based NodeJS lib that serves rotary encoder data from GPIO pins on Raspberry Pi",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,6 +14,8 @@
     "onoff",
     "rotary",
     "encoder",
+    "rotary encoder",
+    "dial",
     "gpio",
     "raspberry",
     "pi",
