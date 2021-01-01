@@ -91,8 +91,6 @@ NodaryEncoder.prototype.tick = function tick() {
 
 	this.state = newState
 
-	console.log(this.state, this.direction, this.value)
-
 	this.emit('rotation', this.direction, this.value)
 
 	return this;
