@@ -1,0 +1,19 @@
+{
+  "name": "nodary-encoder-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "nodary-encoder": "^0.1.3",
+    "onoff": "^6.0.1",
+    "raspi": "^6.0.1",
+    "raspi-board": "^7.3.3",
+    "raspi-gpio": "^6.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
