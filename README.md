@@ -9,6 +9,8 @@ npm i nodary-encoder --save
 ```
 
 ## Usage
+![Nodary Encoder schematics](https://dash.files.user.io/f/user/7aHXFj3WfgRFxdbAz/nodary-encoder.png&show)
+
 ```js
 const nodaryEncoder = require('nodary-encoder');
 const myEncoder = nodaryEncoder(17, 18); // Using GPIO17 & GPIO18
