@@ -9,7 +9,7 @@ npm i nodary-encoder --save
 ```
 
 ## Usage
-![Nodary Encoder schematics](https://dash.files.user.io/f/user/7aHXFj3WfgRFxdbAz/nodary-encoder-v0.1.4.png?show)
+![Nodary Encoder schematics](http://user.io/f/user/7aHXFj3WfgRFxdbAz/nodary-encoder-v0.1.4.png)
 
 ```js
 const nodaryEncoder = require('nodary-encoder');
